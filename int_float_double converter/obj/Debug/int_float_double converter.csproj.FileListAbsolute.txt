@@ -1,0 +1,11 @@
+C:\Users\kilic\source\repos\int_float_double converter\int_float_double converter\obj\Debug\int_float_double converter.csproj.AssemblyReference.cache
+C:\Users\kilic\source\repos\int_float_double converter\int_float_double converter\obj\Debug\int_float_double_converter.Form1.resources
+C:\Users\kilic\source\repos\int_float_double converter\int_float_double converter\obj\Debug\int_float_double_converter.Properties.Resources.resources
+C:\Users\kilic\source\repos\int_float_double converter\int_float_double converter\obj\Debug\int_float_double converter.csproj.GenerateResource.cache
+C:\Users\kilic\source\repos\int_float_double converter\int_float_double converter\obj\Debug\int_float_double converter.csproj.CoreCompileInputs.cache
+C:\Users\kilic\source\repos\int_float_double converter\int_float_double converter\bin\Debug\int_float_double converter.exe.config
+C:\Users\kilic\source\repos\int_float_double converter\int_float_double converter\bin\Debug\int_float_double converter.exe
+C:\Users\kilic\source\repos\int_float_double converter\int_float_double converter\bin\Debug\int_float_double converter.pdb
+C:\Users\kilic\source\repos\int_float_double converter\int_float_double converter\obj\Debug\int_float_double converter.exe
+C:\Users\kilic\source\repos\int_float_double converter\int_float_double converter\obj\Debug\int_float_double converter.pdb
+C:\Users\kilic\source\repos\int_float_double converter\int_float_double converter\obj\Debug\int_float_double converter.exe.config
